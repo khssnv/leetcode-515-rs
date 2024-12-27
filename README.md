@@ -19,4 +19,12 @@ Given the `root` of a binary tree, return an array of the largest value in each 
 * The number of nodes in the tree will be in the range [0, 104].
 * -231 <= Node.val <= 231 - 1
 
+## Docs
+
+* [std::rc::Rc](https://doc.rust-lang.org/std/rc/struct.Rc.html)
+* [std::cell::RefCell](https://doc.rust-lang.org/std/rc/struct.Rc.html)
+* [std::collections::BTreeMap](https://doc.rust-lang.org/std/collections/struct.BTreeMap.html)
+
+## Origin
+
 <https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/>
